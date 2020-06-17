@@ -1,6 +1,6 @@
 ## Boost Heap 1.65.1 BCP Dump
 
-This is a dump of all the required Boost Headers to use Boost Heap library in a standalone project.
+This is a dump of all the required Boost Headers to use [Boost Heap](https://www.boost.org/doc/libs/1_65_0/doc/html/heap.html) library in a standalone project.
 
 This repository is suited for submodule inclusion in any git-based project.
 
